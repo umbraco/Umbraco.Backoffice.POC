@@ -178,6 +178,4 @@ We will **not** be accepting issues, pull requests, or discussions on this repos
 
 We are happy to continue the discussion with you on the discussions board for the RFC:
 
-[See all related discussions](https://github.com/umbraco/rfcs/discussions/categories/0024-new-backoffice)
-
-[Ask a question or bring a suggestion here](https://github.com/umbraco/rfcs/discussions/new?category=0024-new-backoffice)
+[Ask a question or bring a suggestion here on our discussion board]([https://github.com/umbraco/rfcs/discussions/new?category=0024-new-backoffice](https://github.com/umbraco/rfcs/discussions/34))

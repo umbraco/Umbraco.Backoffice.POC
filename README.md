@@ -1,3 +1,10 @@
+# Archived ⚠️
+
+This repository is deprecated. Please refer to the [main repository for the new backoffice](https://github.com/umbraco/Umbraco.CMS.Backoffice) for further work.
+
+----
+
+
 # Proof of Concept: The New Backoffice
 
 ## What is this repository about?
